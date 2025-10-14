@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\spotifycleaner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\spotifycleaner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\spotifyplaylistclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\spotifyplaylistclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\trackposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\trackposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\spotauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\spotauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\ispotifyplaylistclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\ispotifyplaylistclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\ispotifyplaylistclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\ispotifyplaylistclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\playlistinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\playlistinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\spotifyplaylistclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\spotifyplaylistclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\spotifysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\spotifysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|c:\\users\\john\\source\\repos\\spotifycleaner\\spotifycleaner\\spotifycleaner.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{13AB5F2A-3FDB-4FA5-BF29-99EBDA60DA6D}|SpotifyCleaner\\SpotifyCleaner.csproj|solutionrelative:spotifycleaner\\spotifycleaner.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotAuthService.cs",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\SpotAuthService.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotAuthService.cs",
+              "RelativeToolTip": "SpotifyCleaner\\SpotAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:45:37.971Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackPosition.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\TrackPosition.cs",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\TrackPosition.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\TrackPosition.cs",
+              "RelativeToolTip": "SpotifyCleaner\\TrackPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:20:40.313Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpotifyPlaylistClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyPlaylistClientFactory.cs",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\SpotifyPlaylistClientFactory.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyPlaylistClientFactory.cs",
+              "RelativeToolTip": "SpotifyCleaner\\SpotifyPlaylistClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:09:13.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISpotifyPlaylistClient.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\ISpotifyPlaylistClient.cs",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\ISpotifyPlaylistClient.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\ISpotifyPlaylistClient.cs",
+              "RelativeToolTip": "SpotifyCleaner\\ISpotifyPlaylistClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:15:34.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISpotifyPlaylistClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\ISpotifyPlaylistClientFactory.cs",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\ISpotifyPlaylistClientFactory.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\ISpotifyPlaylistClientFactory.cs",
+              "RelativeToolTip": "SpotifyCleaner\\ISpotifyPlaylistClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:08:48.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpotifyCleaner.csproj",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyCleaner.csproj",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\SpotifyCleaner.csproj",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyCleaner.csproj",
+              "RelativeToolTip": "SpotifyCleaner\\SpotifyCleaner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T22:56:56.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpotifySettings.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifySettings.cs",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\SpotifySettings.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifySettings.cs",
+              "RelativeToolTip": "SpotifyCleaner\\SpotifySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:00:41.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpotifyPlaylistClient.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyPlaylistClient.cs",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\SpotifyPlaylistClient.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyPlaylistClient.cs",
+              "RelativeToolTip": "SpotifyCleaner\\SpotifyPlaylistClient.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:53:40.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaylistInfo.cs",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\PlaylistInfo.cs",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\PlaylistInfo.cs",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\PlaylistInfo.cs",
+              "RelativeToolTip": "SpotifyCleaner\\PlaylistInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T19:56:44.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpotifyCleaner",
+              "DocumentMoniker": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyCleaner.csproj",
+              "RelativeDocumentMoniker": "SpotifyCleaner\\SpotifyCleaner.csproj",
+              "ToolTip": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyCleaner.csproj",
+              "RelativeToolTip": "SpotifyCleaner\\SpotifyCleaner.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T23:06:44.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

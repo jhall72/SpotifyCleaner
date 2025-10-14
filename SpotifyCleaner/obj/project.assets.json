@@ -603,7 +603,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyCleaner.csproj",
-      "projectName": "SpotifyCleaner",
+      "projectName": "SpotifyPlaylistCleaner",
       "projectPath": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\SpotifyCleaner.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\John\\source\\repos\\SpotifyCleaner\\SpotifyCleaner\\obj\\",

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A library for cleaning Spotify playlists and removing duplicates")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b48c6ebc0b3751b1a05ef95a0348a82b5af1962")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76bd0134bc77ad43e16e5b0eb287f98b5f0f8201")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpotifyCleaner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpotifyCleaner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

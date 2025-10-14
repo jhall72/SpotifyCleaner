@@ -1,2 +1,2 @@
 # SpotifyCleaner
-Removes Duplicates from Spotify Playlist
+Removes Duplicates from Spotify Playlists

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SpotifyCleaner</id>
+    <version>1.0.0</version>
+    <authors>John Hall</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/jhall72/SpotifyCleaner</projectUrl>
+    <description>A library for cleaning Spotify playlists and removing duplicates</description>
+    <tags>spotify playlist cleaner duplicates</tags>
+    <repository type="git" url="https://github.com/jhall72/SpotifyCleaner" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.Extensions.Logging" version="9.0.8" exclude="Build,Analyzers" />
+        <dependency id="SpotifyAPI.Web" version="7.2.1" exclude="Build,Analyzers" />
+        <dependency id="SpotifyAPI.Web.Auth" version="7.2.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\bin\Release\net9.0\SpotifyCleaner.dll" target="lib\net9.0\SpotifyCleaner.dll" />
+  </files>
+</package>

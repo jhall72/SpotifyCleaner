@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+	  <PackageId>SpotifyCleaner</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>John Hall</Authors>
+	  <Description>A library for cleaning Spotify playlists and removing duplicates</Description>
+	  <PackageProjectUrl>https://github.com/jhall72/SpotifyCleaner</PackageProjectUrl>
+	  <RepositoryUrl>https://github.com/jhall72/SpotifyCleaner</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <PackageTags>spotify;playlist;cleaner;duplicates</PackageTags>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="9.0.8" />
+    <PackageReference Include="SpotifyAPI.Web" Version="7.2.1" />
+    <PackageReference Include="SpotifyAPI.Web.Auth" Version="7.2.1" />
+  </ItemGroup>
+
+</Project>

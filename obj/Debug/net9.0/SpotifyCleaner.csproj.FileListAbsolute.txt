@@ -1,0 +1,12 @@
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\bin\Debug\net9.0\SpotifyCleaner.deps.json
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\bin\Debug\net9.0\SpotifyCleaner.dll
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\bin\Debug\net9.0\SpotifyCleaner.pdb
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\SpotifyCleaner.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\SpotifyCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\SpotifyCleaner.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\SpotifyCleaner.AssemblyInfo.cs
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\SpotifyCleaner.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\SpotifyCleaner.dll
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\refint\SpotifyCleaner.dll
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\SpotifyCleaner.pdb
+C:\Users\John\source\repos\SpotifyCleaner\SpotifyCleaner\obj\Debug\net9.0\ref\SpotifyCleaner.dll

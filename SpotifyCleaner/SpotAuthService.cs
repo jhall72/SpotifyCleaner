@@ -32,7 +32,8 @@ namespace SpotifyCleaner.SpotAuthService
                     Scopes.PlaylistReadPrivate,
                     Scopes.PlaylistReadCollaborative,
                     Scopes.PlaylistModifyPrivate,
-                    Scopes.PlaylistModifyPublic
+                    Scopes.PlaylistModifyPublic,
+                    Scopes.UserReadEmail
                 },
                 State = state
             };

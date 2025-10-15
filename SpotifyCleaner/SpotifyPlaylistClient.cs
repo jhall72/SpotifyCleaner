@@ -434,6 +434,35 @@ namespace SpotifyCleaner.SpotCleaner
             return tracks;
         }
 
+        public async Task<string> GetUserEmailAsync(CancellationToken ct = default)
+        {
+            using var scope = _logger.BeginScope("GetUserEmailAsync");
+            try
+            {
+                _logger.LogInformation("Fetching current user's email");
+
+                var user = await _client.UserProfile.Current(ct);
+
+                if (string.IsNullOrEmpty(user.Email))
+                {
+                    _logger.LogWarning("User email is not available. Ensure 'user-read-email' scope is requested");
+                    throw new InvalidOperationException("User email is not available. The 'user-read-email' scope may not be granted.");
+                }
+
+                _logger.LogInformation("Successfully retrieved email for user: {DisplayName}", user.DisplayName);
+                return user.Email;
+            }
+            catch (OperationCanceledException)
+            {
+                _logger.LogWarning("GetUserEmailAsync operation was cancelled");
+                throw;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error occurred while fetching user email");
+                throw;
+            }
+        }
         public async Task<Dictionary<FullTrack, int>> GetPlaylistDuplicateTracksAsync(string playlistId, CancellationToken ct = default)
         {
             using var scope = _logger.BeginScope("GetPlaylistDuplicateTracksAsync for playlist: {PlaylistId}", playlistId);

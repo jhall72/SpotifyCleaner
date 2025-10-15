@@ -43,5 +43,12 @@ namespace SpotifyCleaner
         /// <param name="ct">Cancellation token</param>
         /// <returns>PlaylistInfo for the requested playlist</returns>
         Task<PlaylistInfo> GetPlaylistByIdAsync(string playlistId, CancellationToken ct = default);
+
+        /// <summary>
+        /// Gets the current user's email address
+        /// </summary>
+        /// <param name="ct">Cancellation token</param>
+        /// <returns>User's email address</returns>
+        Task<string> GetUserEmailAsync(CancellationToken ct = default);
     }
 }

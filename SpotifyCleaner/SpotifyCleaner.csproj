@@ -3,7 +3,6 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
 	  <PackageId>SpotifyCleaner</PackageId>
-	  <Version>1.0.0</Version>
 	  <Authors>John Hall</Authors>
 	  <Description>A library for cleaning Spotify playlists and removing duplicates</Description>
 	  <PackageProjectUrl>https://github.com/jhall72/SpotifyCleaner</PackageProjectUrl>

@@ -68,6 +68,53 @@ namespace SpotifyCleaner.SpotCleaner
                 throw;
             }
         }
+        public async Task<PlaylistInfo> GetPlaylistByIdAsync(string playlistId, CancellationToken ct = default)
+        {
+            using var scope = _logger.BeginScope("GetPlaylistByIdAsync");
+            try
+            {
+                _logger.LogInformation("Fetching playlist with ID: {PlaylistId}", playlistId);
+
+                var playlist = await _client.Playlists.Get(playlistId, ct);
+
+                if (playlist == null)
+                {
+                    _logger.LogWarning("Playlist with ID {PlaylistId} not found", playlistId);
+                    throw new ArgumentException($"Playlist with ID {playlistId} not found", nameof(playlistId));
+                }
+
+                var playlistInfo = new PlaylistInfo
+                {
+                    Id = playlist.Id,
+                    Name = playlist.Name,
+                    Owner = playlist.Owner?.DisplayName,
+                    Tracks = playlist.Tracks?.Total,
+                    Uri = playlist.Uri,
+                    Href = playlist.Href,
+                    IsPublic = playlist.Public,
+                    Images = playlist.Images,
+                    SnapshotId = playlist.SnapshotId
+                };
+
+                _logger.LogDebug("Calculating duplicates for playlist {PlaylistId}", playlistId);
+                playlistInfo.Duplicates = await GetPlaylistDuplicateTracksAsync(playlist.Id, ct);
+
+                _logger.LogInformation("Successfully retrieved playlist '{Name}' with {TrackCount} tracks and {DuplicateCount} duplicates",
+                    playlistInfo.Name, playlistInfo.Tracks, playlistInfo.Duplicates);
+
+                return playlistInfo;
+            }
+            catch (OperationCanceledException)
+            {
+                _logger.LogWarning("GetPlaylistByIdAsync operation was cancelled for playlist {PlaylistId}", playlistId);
+                throw;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error occurred while fetching playlist {PlaylistId}", playlistId);
+                throw;
+            }
+        }
 
         public async Task<int> DeleteTrackDuplicatesAsync(string playlistId, string trackId, CancellationToken ct = default)
         {

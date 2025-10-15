@@ -35,5 +35,13 @@ namespace SpotifyCleaner
         /// <param name="ct">Cancellation token</param>
         /// <returns>Number of duplicate tracks removed</returns>
         Task<int> DeleteAllDuplicateTracksAsync(string playlistId, IEnumerable<string> trackIds, CancellationToken ct = default);
+
+        /// <summary>
+        /// Gets a specific playlist by its ID
+        /// </summary>
+        /// <param name="playlistId">The ID of the playlist to retrieve</param>
+        /// <param name="ct">Cancellation token</param>
+        /// <returns>PlaylistInfo for the requested playlist</returns>
+        Task<PlaylistInfo> GetPlaylistByIdAsync(string playlistId, CancellationToken ct = default);
     }
 }
